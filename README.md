@@ -50,6 +50,11 @@ Arduino-BLEPerpheral Library: https://github.com/sandeepmistry/arduino-BLEPeriph
 
 Experimental, but useful: Sparkfun's Mag3110 compass library - https://github.com/sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library  
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
+
 ## Things To Do
 
 LOTS OF STUFF, most of which I'll never get to doing, but please if you make any changes, update me here.  

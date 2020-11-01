@@ -30,7 +30,9 @@ https://kd8bxp.blogspot.com/
  * http://www.princetronics.com/supermariothemesong/
  */
 
-#include <Maqueen.h>
+// Remember to set softdevice to S110 or S130 otherwise fails to compile
+
+#include "src/micro_Maqueen/Maqueen.h"
 Maqueen bot;
 
 int melody[] = {

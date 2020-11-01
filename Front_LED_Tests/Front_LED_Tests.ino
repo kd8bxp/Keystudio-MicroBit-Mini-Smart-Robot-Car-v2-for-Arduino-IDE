@@ -3,7 +3,7 @@
 #define BLUE 4
 
 #include <Wire.h>
-#include <Adafruit_PWMServoDriver.h>
+#include "src/Adafruit_PWMServoDriver/Adafruit_PWMServoDriver.h"
 
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x43);
 
