@@ -1,3 +1,8 @@
+# Archived Aug 20, 2024
+
+I no longer own either the robot, or a Micro:Bit controller. This project was for the original Micro:bit v1.  I never finished this project, it is left for historical reasons. No support will be provided. 
+It will most likely still work if you have the correct hardware, and you are welcome to continue to work on this project if you like. 
+
 # Keystudio Micro:Bit Mini Smart Robot Car for the Arduino IDE
 
 This is a incomplete project, I'll probably never finish it, provided as-is.  
